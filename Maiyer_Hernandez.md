@@ -5,9 +5,11 @@
  width = "80" 
  />
 
-
-
-
+| Datos  |  Descripción |
+| ---    | --- | 
+| Dirección   |    Carrera 21 bis 1#5-52 | 
+| Barrio    | Cuidadela de la paz - Baranoa    | 
+|  Celular   | 3225191181   | 
 
 
 
