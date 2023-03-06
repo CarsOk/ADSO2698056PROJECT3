@@ -11,3 +11,7 @@
 |**correo sena**| no tengo |
 |**GitHub**| luigmaxpro15|
 |**direccion** | cll 97a No. 6l-64|
+# ESTUDIOS
+|**Colegio**| I.E.D La Milagrosa Fe Y Alegria|
+|-----------|--------------------------------|
+| **SENA**  | CENTRO INDUSTRIAL Y DE AVIACION|
