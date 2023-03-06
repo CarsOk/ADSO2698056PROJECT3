@@ -11,7 +11,14 @@
 | Barrio    | Cuidadela de la paz - Baranoa    | 
 |  Celular   | 3225191181   | 
 
+## Estudios 
+ * Colegio 
+    * Institucion Educativa Pedro A Oñoro De Baranoa 
+* Sena 
+    * Tecnico En Sistemas    
 
 
-## Usuario de GitHub
+
+
+#### Usuario de GitHub
  [Maiyerhn](https://github.com/maiyerhn)
