@@ -6,3 +6,8 @@ https://github.com/Nehemiasyr
 |-----------|-------------------------|
 |**Barrio**| Siete de abril|
 |**Direccion**| Kra 12A sur #69-33|
+|**Celular**| 3160412212       |
+|**T.I**    | 1139425989         |
+|**Correo** | nyeres02102006@gmail.com|
+|**correo sena**| No tengo|
+
