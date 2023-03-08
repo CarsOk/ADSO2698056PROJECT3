@@ -11,3 +11,8 @@ https://github.com/Nehemiasyr
 |**Correo** | nyeres02102006@gmail.com|
 |**correo sena**| No tengo|
 
+
+# ESTUDIOS
+|**Colegio**| I.E.D German vargas cantillo  |
+|-----------|-------------------------------|
+|**Sena**   | ADSO Sistemas|
