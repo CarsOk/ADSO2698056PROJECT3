@@ -12,3 +12,10 @@ mi hoja de vida
 |CORREO|jesusdvid823@gmail.com|
 |CORREO SENA|NO TENGO|
 |USUARIO GITHUB|jesusdcaballero|
+
+
+### ESTUDIOS
+|COLEGIO  |I.E.T.I JOSE CASTILLO BOLIVAR,SOLEDAD|
+|---------------|-----------------|
+|COLEGIO| I.E.D CRISTO REY,SANTA MARTA  |
+|SENA  |  ADSO|
