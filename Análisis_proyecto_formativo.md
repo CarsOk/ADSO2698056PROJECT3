@@ -46,3 +46,42 @@ Actualmente estamos en la fase de análisis
 7. **¿Cuál es el presupuesto destinado para el proyecto?**
 
 El presupuesto total es de 65.841.300 millones de pesos, previamente se escribió en valor de euros pero no es así
+
+
+
+# Tecnologias de la informacion , comunicaciones y Gestion 
+
+1. **¿Cómo se llama la competencia que lidera el Instructor HENRY GUZMAN?**  
+
+ESPECIFICACIÓN DE REQUISITOS DEL SOFTWARE
+
+2. **¿Cómo se llama la competencia que lidera el instructor ZAHEDYS RODRIGUEZ?**  
+
+ELABORACIÓN DE LA PROPUESTA TÉCNICA DEL SOFTWARE.
+
+3. **¿Cuántos trimestres son la etapa lectiva?**
+
+6 Trimestres
+
+4. **¿Cuál es la competencia con más horas de formación?**
+
+Construccion del software con 1008 Horas
+
+5. **¿Cuántas horas de formación debe invertir en la etapa lectiva?**
+
+lleva 3120 horas
+
+6. **completar: - La teoría General de Sistemas es un item que debe ser abordado por el instructor** _________
+
+La teoría General de Sistemas es un item que debe ser abordado por el instructor Henry Guzman
+
+7. **¿Cuantos resultados de aprendizaje me debe calificar el instructor HENRY GUZMÁN en este trimestre?**
+
+*  CARACTERIZAR LOS PROCESOS DE LA ORGANIZACIÓN DE ACUERDO CON EL SOFTWARE A CONSTRUIR.
+
+* RECOLECTAR INFORMACIÓN DEL SOFTWARE A CONSTRUIR DE ACUERDO CON LAS NECESIDADES DEL
+CLIENTE.
+
+*  ESTABLECER LOS REQUISITOS DEL SOFTWARE DE ACUERDO CON LA INFORMACIÓN RECOLECTADA.
+
+* VALIDAR EL INFORME DE REQUISITOS DE ACUERDO CON LAS NECESIDADES DEL CLIENTE.
