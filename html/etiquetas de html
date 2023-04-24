@@ -1,0 +1,60 @@
+# que es HTML
+
+El código HTML les dice a los navegadores web como mostrar
+contenido como imágenes, enlace y texto en una página web.
+HTML: es un lenguaje de mercado de computadora que
+estructura todas las páginas web en internet.
+En HTML las cosas giran en torno a las etiquetas. Las etiquetas
+comienzan con <, seguido de una palabra clave y termina con
+>
+Un elemento es lo que llamamos la etiqueta de apertura, la
+etiqueta de cierre y el código intermedio.
+La mayoría de páginas web tienen varias páginas HTML diferentes. Por ejemplo, una página de inicio, otra de producto, otra de contacto, etc. Cada una de estas tiene HTML separados. Los documentos HTML son archivos que acaban con .html o .htm. Un navegador lee el archivo y muestra su contenido para los internautas puedan verlo.
+
+Como hemos comentado anteriormente, todas las páginas HTML contienen una serie de elementos HTML que a la vez disponen de diferentes etiquetas y atributos. Es decir, los elementos HTML son los componentes básicos de una página web. Una etiqueta contiene mucha información. Le indica al navegador dónde empieza y dónde termina cada elemento, mientras que un atributo describe las características.
+
+Los elementos HTML suelen dividirse en tres partes. Esta combinación de las tres crea un elemento HTML.
+
+Etiqueta de apertura: Se utiliza para indicar dónde empieza un elemento. Está envuelta en corchete de apertura y cierre. Por ejemplo puedes usar la etiqueta de inicio <p> para crear un párrafo.
+Contenido: El contenido es el resultado que ve la audiencia.
+Etiqueta de cierre: Es lo mismo que la etiqueta de apertura pero con una barra inclinada delante del nombre del elemento. Es decir, </p> para finalizar un párrafo.
+Otra parte fundamental de un elemento HTML son los atributos. Estos tienen dos secciones:
+
+Nombre: El nombre identifica la información adicional que un usuario quiere agregar.
+Valor del atributo: Da más detalles que el anterior.
+
+
+# etiquetas basicas de HTML
+
+Hay una serie de etiquetas que son las más usadas para crear cualquier documento HTML, a continuación las explicamos:
+
+<body> para el contenido
+<head> para información sobre el documento
+<div> división dentro del contenido
+<a> para enlaces
+<strong> para poner el texto en negrita
+<br> para saltos de línea
+<H1>…<H6> para títulos dentro del contenido
+<img> para añadir imágenes al documento
+<ol> para listas ordenadas, <ul> para listas desordenadas, <li> para elementos dentro de la lista
+<p> para parágrafos
+<span> para estilos de una parte del textoHay una serie de etiquetas que son las más usadas para crear cualquier documento HTML, a continuación las explicamos:
+
+<body> para el contenido
+<head> para información sobre el documento
+<div> división dentro del contenido
+<a> para enlaces
+<strong> para poner el texto en negrita
+<br> para saltos de línea
+<H1>…<H6> para títulos dentro del contenido
+<img> para añadir imágenes al documento
+<ol> para listas ordenadas, <ul> para listas desordenadas, <li> para elementos dentro de la lista
+<p> para parágrafos
+<span> para estilos de una parte del texto
+
+
+# Las etiquetas HTML que debes conocer incluyen:
+<img> : esta es la etiqueta de imagen que se utiliza para insertar una imagen en la página web. ...
+Src: Este término especifica la ruta del archivo de imagen. ...
+Alt: Este atributo es responsable del texto alternativo de la foto.
+
