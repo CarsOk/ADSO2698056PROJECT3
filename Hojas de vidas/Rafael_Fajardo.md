@@ -1,6 +1,6 @@
 # Rafael Fajardo Diaz
 
-![foto](https://avatars.githubusercontent.com/u/126476889?v=4)
+![foto](https://user-images.githubusercontent.com/126476889/221584658-919f4af7-6c3f-48cf-9079-3d46bd10a814.jpg)
 
 ## datos personales
 |**Nombre** | Rafael Fajardo Diaz |
