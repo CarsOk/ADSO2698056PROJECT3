@@ -60,3 +60,66 @@ las posibles restricciones son el tiempo que tomará el desarrollo del sistema a
 ### 2.5	Atención y Dependencias
 Nuestra propuesta consiste en un modelo aplicativo para organizar y contabilizar la salida y entrada de productos, como también calcular el total de ganancias
 
+# 3. Requerimientos Especificos 
+
+### 3.1 Requerimeintos Funcionales 
+|   Codigo  |  RF-001  | 
+|---|---|
+| Nombre  | MODULO LOGIN |
+| Fecha  | 25/05-2023|
+| Grado Necesidad    |  ALTO|
+| Entradas  | (Usuario Y  Contraseña)  |
+| Fuente  | Base De Datos  |
+| Salida  | Interfaz Menu Principal  |
+| Destino  | Interfaz Menu Principal  |
+| Restricciones | Restricciones Segun Su Rol |
+| Proceso | * Ingresar Usuario Y Contraseña 
+|   | * La Cuenta Debe Estar Registrada Previamente   en la base de Datos  
+|   | * El login No Permite Recuperacion De Cuenta  | 
+| Efecto Colateral  | Fallar La Contraseña 5 Veces Bloquea El Acceso A La Pagina Web    |
+
+|   Codigo  |  RF-002  | 
+|---|---|
+| Nombre  | REGISTRO DE USUARIOS |
+| Fecha  | 25/05-2023|
+| Grado Necesidad    |  ALTO|
+| Entradas  | (NOMBRES Y APELLIDOS)  |
+| Fuente  | Foemulario de registo para usuarios  |
+| Salida  | Registo satisfactorio |
+| Destino  | Base de datos  |
+| Restricciones | Restricciones Segun Su Rol |
+| Proceso | * Reoleccion de datos basicos como nombre apellido y numero telefonico
+|   | * Registro sastifactorio del usuario  
+|   | * Solo el personal administrativo o de un rol expecifico tendra la posibilidad del registro a los usuarios  | 
+| Efecto Colateral  | estos mismos usuarios con nivel de rol administrativo no tendran el adceso adsoluto a las funciones del sistema por precausion  |
+
+
+
+|   Codigo  |  RF-003  | 
+|---|---|
+| Nombre  | REGISTRO DE PROPIETARIO/POSEEDOR |
+| Fecha  | 25/05-2023|
+| Grado Necesidad    |  ALTO|
+| Entradas  | (Identificacion Nombres apellidos)  |
+| Fuente  | Formulario de registro del poosedor |
+| Salida  | Proosedor regitrado  |
+| Destino  | Base de datos  |
+| Restricciones | un propietario puede tener 3 roles si es el caso |
+| Proceso | * Recopilacion de datos basicos personales
+|   | * asignacion de rol o cargo al propietario
+|   | * registo satisfactorio  | 
+| Efecto Colateral  | Modificacion De Registro Helados|
+
+|   Codigo  |  RF-004  | 
+|---|---|
+| Nombre  | REGISTRO HELADO |
+| Fecha  | 25/05-2023|
+| Grado Necesidad    |  ALTO|
+| Descripcion | El Sistema Permite La Modificacion De Helados Manejados En El Momento
+| Entradas | LOGIN | 
+|Fuente | Base De Datos | 
+| Salida | Interfaz De Helados| 
+|Destino | Base De Datos | 
+| Proceso | El Usuario Deberia Ingresar Con Una Cuenta Que tenga Rol Propietario/poseedor |
+
+
