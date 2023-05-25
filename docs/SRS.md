@@ -62,3 +62,56 @@ las posibles restricciones son el tiempo que tomará el desarrollo del sistema a
 ### 2.5	Atención y Dependencias
 Nuestra propuesta consiste en un modelo aplicativo para organizar y contabilizar la salida y entrada de productos como tambien realizar pedidos a domicilio por medio de la pagina web, como también calcular el total de ganancias.
 
+3.2 Requerimientos no funcionales
+| codigo | RFN-001 |
+|---------|-------|
+| Nombre | DESEMPEÑO |
+| Fecha | 25/05/2023 |
+| Grado Necesidad | ALTO |
+| Descripcion | El tiempo de respuesta y la duracion de las opciones funcionales del sofware sera lo mas rapido posible.
+por tanto el nivel de servicios requerido es tal que el sistema imformacion con el tiempo no sufra una disminucion en su desempeño (degradacion) respecto al nivel previo al de la puesta de produccion |
+
+| codigo | RFN-002 |
+|---------|-------|
+| Nombre | SEGURIDAD |
+| Fecha | 25/05/2023 |
+| Grado Necesidad | ALTO |
+| Descripcion | Este requerimiento es de suma importancia igual que todos los demas, sin embargo la seguridad prima en cualquier sistema es por esto que para aplicar esta se hara uso de una contraseña y un usuario unico con rol, lo cual permite controlar el acceso a la imformacion alojada |
+
+| codigo | RFN-003 |
+|---------|-------|
+| Nombre | USABILIDAD |
+| Fecha | 25/05/2023 |
+| Grado Necesidad | ALTO |
+| Descripcion | El software debera ser lo suficiente facil de manejar por el usuario, es decir este ultimo podra hacer todad las operaciones del sistema sin ningun problema, sin embargo, cualquier duda que surja podra ser consultada en "ayuda". |
+
+| codigo | RFN-004 |
+|---------|-------|
+| Nombre | DISPONIBILIDAD |
+| Fecha | 25/05/2023 |
+| Grado Necesidad | ALTO |
+| Descripcion | La disponibilidad del sistema le corresponde a la heladeria san delicias, que el servidor se alojara el sistema este en funcionamiento en los horarios de atencion de la heladeria  |
+
+| codigo | RFN-005 |
+|---------|-------|
+| Nombre | FIABILIDAD |
+| Fecha | 25/05/2023 |
+| Grado Necesidad | ALTO |
+| Descripcion | Lo definimos como la probabilidad de que este producto funcione sin fallos durante un lapso de  (6 meses) sin recibir mantenimiento correctivo |
+
+| codigo | RFN-006|
+|---------|-------|
+| Nombre | MANTENIBILIDAD |
+| Fecha | 25/05/2023 |
+| Grado Necesidad | ALTO |
+| Descripcion |  El sistema debera tener capacidad de recuperarse en lo posible frente a los posibles fallos que puedan presentarse. asegurar que no se pierda los datos de la base de datos. en caso de falla del servidor la responsabilidad le corresponde a la heladeria san delicias. |
+
+| codigo | RFN-007 |
+|---------|-------|
+| Nombre | PORTABILIDAD |
+| Fecha | 25/05/2023 |
+| Grado Necesidad | ALTO |
+| Descripcion | En cuanto a este requerimiento,
+podemos asegurar que el sistema sera totalmente portable en cuanto a sistemas operativos, ya que este sistema funcionara desde navegador, bien sea google chorme o mozilla firefox debera de funcionar adecuadamente.
+
+ |
